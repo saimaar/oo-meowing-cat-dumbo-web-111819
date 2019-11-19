@@ -7,3 +7,8 @@ class Cat
   end 
   
 end 
+
+maru = Cat.new 
+maru.name = "Maru"
+p maru.name
+p maru.meow
